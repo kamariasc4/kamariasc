@@ -33,7 +33,7 @@ while(money>99){
     money = money - 100;
     items.push("Food");
     console.log("You bought Food!");
-  }else{
+  }else{ 
     console.log("You dont have enough money. Please try again");
   }
 }
