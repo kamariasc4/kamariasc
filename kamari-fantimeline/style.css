@@ -1,0 +1,18 @@
+img{
+    width: 25%;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 35%;
+    display: inline-block;
+    vertical-align: center;
+}
+.date{
+    text-align: center;
+}
+body{
+    background-image: url("assets/pic.jpg");
+    background-size: contain
+
+}
