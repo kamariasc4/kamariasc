@@ -1,0 +1,18 @@
+.jumbotron{
+    margin-top: 25px;
+    background-image: url("https://lh3.googleusercontent.com/O8QDsoOtpRueH2yyrCJOCCLgjc79lCQKW1T7vEAUC_A-SSnDG2iK1AWT7Qa7AneNKe6Gmi8Iok3LMVn8SoKD9-4OsS_HFVFE7SPQEp4D_FpMJzLJGfzvOXUQunzM1hqkvjjF9eau");
+    color: white;
+    text-align: center;
+    background-position: center;
+}
+.video{
+    text-align: center;
+    margin: 30px
+}
+
+body{
+    background-image: url("https://mfiles.alphacoders.com/673/673923.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif
+}

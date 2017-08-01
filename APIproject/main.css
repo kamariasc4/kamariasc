@@ -1,0 +1,9 @@
+.jumbotron{
+    text-align: center;
+    background-image: url("http://flowers2nikolaev.com/wp-content/uploads/2017/06/wellsuited-pictures-of-stocks.jpg");
+    background-size: cover;
+    color: white;
+}
+.row img{
+    padding: 10px;
+}

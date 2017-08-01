@@ -1,0 +1,44 @@
+* {
+    /*border: 1px dotted red;*/
+}
+
+
+
+.jumbotron{
+    text-align: center;
+    background-image: url("http://geekandsundry.com/wp-content/uploads/2015/12/HyperLightDrifter_P002-970x545.png");
+ height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-filter: blur(5px);
+  filter: blur(5.5px);
+  width: 100%;
+
+}
+.container{
+    text-align: center;
+    text-shadow: 1px 1px salmon;
+    font-size: 20px
+}
+
+img
+{
+    height: 400px;
+    width: 400px;
+}
+
+.space img {
+    padding: 30px;
+}
+ body{
+     background-image: url("https://images7.alphacoders.com/550/550739.jpg");
+     color: black;
+    height: 100vh;
+    width:100%;
+ }
+
+ .navbar{
+     opacity: .8;
+     background: black;
+     border: 0;
+ }
