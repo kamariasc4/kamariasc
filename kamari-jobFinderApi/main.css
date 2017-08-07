@@ -1,0 +1,29 @@
+img{
+    height: 600px;
+    width: 1400px;
+}
+
+.jumbotron{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.img-circle{
+    height: 150px;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+
+
+.jumbotron2{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.signs{
+    text-align: left;
+}
